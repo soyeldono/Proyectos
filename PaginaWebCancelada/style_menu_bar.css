@@ -1,0 +1,235 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+}
+
+/*
+body {
+    background: #E7FFF9;
+}
+*/
+
+/* -------------------- FILTRO COLOR AMARILLO ------------------*/
+
+div.filtro_pago {
+    width: 100%;
+}
+
+div.filtro_pago ul {
+    list-style: none;
+}
+
+div.filtro_pago > ul  {
+    display: table;
+    overflow: hidden;
+    width: 6%;
+    position: absolute;    
+    margin: 0% 54.5%;
+    background: #FFD700;
+    padding: 0;
+}
+
+div.filtro_pago > ul li {
+    display: table-cell;
+}
+
+div.filtro_pago > nav  > ul > li > ul {
+    display: none;
+} 
+
+div.filtro_pago > nav  > ul li a {
+    color: #ffffff;
+    display: block;
+    line-height: 20px;
+    padding: 25px;
+    position: relative;
+    text-align: center;
+    text-decoration: none; 
+}
+
+div.filtro_pago li ul {
+    display: none;
+}
+
+#paso1 {
+    border-left: 1px solid #20B2AA;
+}
+
+/* ------------ menu bar -------------------- */
+/* Forma y diseño de TODA la barra de menu */
+div.menu_bar > nav {
+    width: 100%;
+}
+
+div.menu_bar > nav ul {
+    list-style: none;
+}
+
+div.menu_bar > nav  > ul  {
+    display: table;
+    overflow: hidden;
+    width: 85%;
+    position: relative;    
+    margin: 100px auto;
+    background: #664488;
+    /*background: #1C5A92;*/
+}
+
+
+
+div.menu_bar > nav  > ul li {
+    display: table-cell;
+}
+
+div.menu_bar > nav  > ul > li > ul {
+    display: none;
+} 
+
+div.menu_bar > nav  > ul li a {
+    color: #ffffff;
+    display: block;
+    line-height: 20px;
+    padding: 25px;
+    position: relative;
+    text-align: center;
+    text-decoration: none; 
+}
+
+
+/* ---------------------- COLOR A LA BARRA DE MENU ------------*/
+
+#casa {
+    background: #377FB2;
+}
+
+
+#telefono {
+    background: #E81B1B;
+}
+
+
+#computadoras {
+    
+    background: #20B2AA;
+}
+
+#juegos {
+    background: #276AC4 ;
+}
+
+#oferta {
+    background: #EDF026;
+}
+
+#blog {
+    background: #E65F00;
+}
+
+#salir {
+    background: black;
+}
+
+
+/* ------------------------ BARRA DE HASTA ARRIBA ----------------*/
+div.object {
+    background: #3B4F5E;
+    
+}
+
+div.object > nav {
+    width: 100%;
+    padding: 4% 0;
+}
+
+div.object > nav ul {
+    list-style: none;
+}
+
+div.object > nav  > ul  {
+    display: table;
+    overflow: hidden;
+    width: 80%;
+    position: relative;    
+    margin: 0px auto;
+    background: #C6C6C6;
+}
+
+.box{
+    margin: -5% 14%;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+}
+
+.container-1{
+    width: 100%;
+    vertical-align: middle;
+    white-space: nowrap;
+    position: relative;
+}
+
+.container-1 input#search{
+    width: 60%;
+    height: 40px;
+    background: #ffffff;
+    border: none;
+    font-size: 10pt;
+    float: left;
+    color: #63717f;
+    padding-left: 45px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.container-1 input#search::-webkit-input-placeholder {
+    color: #65737e;
+}
+  
+ .container-1 input#search:-moz-placeholder { /* Firefox 18- */
+    color: #65737e;  
+}
+  
+ .container-1 input#search::-moz-placeholder {  /* Firefox 19+ */
+    color: #65737e;  
+}
+  
+ .container-1 input#search:-ms-input-placeholder {  
+    color: #65737e;  
+}
+
+.container-1 .buscar{
+    position: absolute;
+    top: 50%;
+    margin-left: 17px;
+    margin-top: 12px;
+    z-index: 1;
+    color: #4f5b66;
+}
+
+
+
+/* ------------------------------ MENU VERTICAL ------------ */
+
+div.menu_ver > nav > ul {
+    list-style: none;
+    margin: -3% 7.6%;
+}
+
+div.menu_ver > nav ul li{
+    padding: 15px;
+    position: relative;
+    width: 200px;
+    background: #CFCFCF;
+    border-top:1px; 
+}
+
+div.menu_ver > nav ul li a{
+    color: #818181;
+    text-decoration: none;
+    padding: 0px auto;
+}

@@ -1,0 +1,6 @@
+------------------ COLORES QUE COMBINAN ---------------------
+(#664488,#9988ee)
+
+
+------------------ COLORES QUE LLAMAN LA ATENCION -----------
+/*background: #26B8CF;*/
