@@ -1,0 +1,43 @@
+----------------------- CABELLO -----------------------
+Color de cabello (amarilo claro): #ffd600-255,214,0,1 #color principal del cabello
+Color de cabello (amarillo fuerte): #bb973f-187,151,33,1 #solo para dar sombreado al cabello
+-------------------------------------------------------
+
+
+---------------------- GORRO --------------------------
+Color del gorro (azul claro): #0058e7-0,22,231,1 #color principal del gorro
+Color del gorro (azul fuerte): #053b92-5,59,146,1 #solo para dar sombreado
+Color del gorro (azul muy claro): #006dd4-0,109,212,1 #solo para dar luz al sombreado al cabello
+-------------------------------------------------------
+
+
+---------------------- ZPATOS ---------------------------
+Color de los zapatos (rojo claro): #a50f0f-165,15,15,1 #color principal de los zapatos
+Color de los zapatos (rojo fuerte): #7e0000-126,0,0,1 #solo para dar sombreado a los zapatos
+---------------------------------------------------------
+
+------------------------ OJOS ---------------------------
+Color de ojos (café): #58331a-88,51,26,1 #color principal de los ojos
+Color de los ojos (blanco): #fdfdfd-255,255,255,1 #solo para dar luz a los ojos
+---------------------------------------------------------
+
+----------------------- HEBILLA -------------------------
+Color del borde de la hebilla (amarillo): #ffec00-255,236,0,1 #color principal del contorno de la hebilla
+Color del centro de la hebilla (café): #b64000-182,64,0,1 #color principal del centro de la hebilla
+---------------------------------------------------------
+
+---------------------- PIEL -----------------------------
+Color de la piel en la cara (piel claro): #f7c7a7-247,199,167,1 #color principal de la cara
+Color de la piel en la cara (piel fuerte): #ffa46a-255,164,106,1 #solo para dar sombreado a la cara
+Color de la piel en las manos (piel claro): #ffdab9-255,218,185,1 #color principal de las manos
+Color de la piel en las manos (piel fuerte): #f4be8e-244,190,142,1 #solo para dar sombreado a las manos
+---------------------------------------------------------
+
+----------------------- CAMISA --------------------------
+Color de la camisa (azul claro): #4678bb-70,120,187,1 #color principal de la camisa
+Color de la camisa (azul fuerte): #0451b8-4,81,184,1 #solo para dar sombreado a la camisa
+--------------------------------------------------------- 
+
+--------------------- CONTORNO --------------------------
+Color del contorno (negro): #000000-0,0,0,1 #color del contorno
+---------------------------------------------------------
