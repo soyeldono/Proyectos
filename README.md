@@ -8,12 +8,17 @@ Estos son algunos de mi proyectos que he hecho durante casi 3 años y al haber t
 Antes de continuar con las explicaciones, hay que tener instalados ciertos programas y librerias para el funcionamiento de los siguientes archivos:
 
 1.- Python >= 3.6 (lenguaje de programacion) -- https://www.python.org/downloads/
+
 2.- Jupyter lab/notebook (ambiente) **Si usas Windows recomiendo que lo hagas con conda, si usas Linux necesitar el virtualenv y ipykernel**
-2.- Sklearn (Libreria) -- pip3 install scikit-learn / conda install scikit-learn
-3.- Matplotlib (Libreria) -- pip3 install matplotlib / conda install matplotlib
-4.- NumPy (Libreria) -- pip3 install numpy / conda install numpy
+
+3.- Sklearn (Libreria) -- pip3 install scikit-learn / conda install scikit-learn
+
+4.- Matplotlib (Libreria) -- pip3 install matplotlib / conda install matplotlib
+
+5.- NumPy (Libreria) -- pip3 install numpy / conda install numpy
 
 ### Python-Simulaciones
+
 **Onda.py** Este documento no tiene mucho de que hablar, con siste en simular unas ondas de agua pero el problema llegaba en que las formulas para poder hacer la simulaicion dependian del resultado de la malla adelante de ella por lo que se uso la tenica de "los puntos fantasma" que consiste en que los puntos exteriores su resultado sea 0.
 
 Para ejecutar el archivo "python Onda.py"
@@ -21,11 +26,13 @@ Para ejecutar el archivo "python Onda.py"
 ### Python-MachineLearning
 
 # Bosques Aleatorios
+
 **Para poder ver este archivo es necesario abrirlo con Jupyter**
 
 Este es un trabajo en el cual consiste en saber cuales personas dieron click a una publicidad dado algunos datos (tipo de cel, fecha, etc...), para ello se uso los bosques aleatorios. En el problema se plantea que se deben usar mas de 40 combinaciones pero debido a que eran demasiadas fueron recoratadas a las que dieron los mejor resultados.
 
 # Inicio a las Redes Neuronales
+
 **Para poder ver este archivo es necesario abrirlo con Jupyter**
 
 En esta red se carga los datos de **iris** y se quiere separar ambos conjuntos mostrados, por lo que se sustituyen algunas cosas (esto porque este ejercicio es reciclado de uno previo). Para poder ver mas a detalle lo que hace, se implemento una vista que permite ver cada uno de los cambios en lo que aprende la red.
