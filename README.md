@@ -45,9 +45,9 @@ El contenido de esta "librería" por ahora solo tiene 2 funciones muy usadas de 
 
 1.- PyCrossValidation: Este módulo proviene de CrossValidation en Sklearn
 
-2.- PyGridSearchCV: Este módulo proviene de PyGridSearchCV en Sklearn
+2.- PyGridSearchCV: Este módulo proviene de GridSearchCV en Sklearn
 
-Para poder comprobar el funcionamiento de este, hasta lo más abajo del archivo viene ejemplos.
+Para poder comprobar el funcionamiento de este, hasta lo más abajo del archivo vienen ejemplos.
 
 ---
 
