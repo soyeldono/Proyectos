@@ -9,7 +9,7 @@ Antes de continuar con las explicaciones, hay que tener instalados ciertos progr
 
 1.- Python >= 3.6 (lenguaje de programación) -- https://www.python.org/downloads/
 
-2.- Jupyter lab/notebook (ambiente) **Si usas Windows recomiendo que lo hagas con conda, si usas Linux necesitar el virtualenv y ipykernel**
+2.- Jupyter lab/notebook (ambiente) **Si usas Windows recomiendo que lo hagas con conda, si usas Linux necesitas el virtualenv y ipykernel**
 
 3.- Sklearn (Librería) -- pip3 install scikit-learn / conda install scikit-learn
 
