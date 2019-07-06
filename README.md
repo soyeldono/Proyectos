@@ -59,22 +59,22 @@ Este era mi proyecto final de processing en el cual podíamos hacer lo que nosot
 
 PD: Aun tiene algunos errores que corregir, son minúsculos los errores, pero no he tenido tiempo para solucionarlos.
 
-**Información juego Processing**
+**--Información juego Processing--**
 
 Esta carpeta solo muestra **toda** la información para poder hacer el juego, desde los modelos de los personajes hasta el modelo del ambiente, con sus códigos de colores y todo lo relacionado. **Para poder alterar los modelos se requiere entrar a la página Piskel** -- https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgKDI65_jCAw/edit
 
-**Juego programación Processing**
+**--Juego programación Processing--**
 
 Aquí solamente está la programación en Processing del videojuego. 
 
 
 # Processing-SistemasDinamicos
 
-**Grafica1**
+**--Grafica1--**
 
 Esta fue una tarea en el que consiste de hacer un programa que grafique los puntos atractores de la función, F(x) = x^2 + 0.25. En el cual se ve perfectamente como el punto atractor tiende a ir donde choca la función F y la función identidad.
 
-**Grafica2**
+**--Grafica2--**
 
 Esta es la opuesta pero igualmente se puede ver que el punto atractor que va al origen.
 
