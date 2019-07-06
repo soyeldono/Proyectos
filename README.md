@@ -25,19 +25,19 @@ Para ejecutar el archivo "python Onda.py"
 
 ### Python-MachineLearning
 
-# Bosques Aleatorios
+#### Bosques Aleatorios
 
 **Para poder ver este archivo es necesario abrirlo con Jupyter**
 
 Este es un trabajo en el cual consiste en saber cuales personas dieron click a una publicidad dado algunos datos (tipo de cel, fecha, etc.…), para ello se usó los bosques aleatorios. En el problema se plantea que se deben usar más de 40 combinaciones, pero debido a que eran demasiadas fueron recortadas por las que dieron los mejor resultados.
 
-# Inicio a las Redes Neuronales
+#### Inicio a las Redes Neuronales
 
 **Para poder ver este archivo es necesario abrirlo con Jupyter**
 
 En esta red carga los datos de **iris** y se quiere separar ambos conjuntos mostrados, por lo que se sustituyen algunas cosas (esto porque este ejercicio es reciclado de uno previo). Para poder ver más a detalle lo que hace, se implementó una vista que permite ver cada uno de los cambios en lo que aprende la red.
 
-# PySklearn
+#### PySklearn
 
 Este archivo es un proyecto final en el cual programé Sklearn pero en Python, esto con el fin de poder paralelizarlo después, más sin embargo hubieron problemas y no pude hacerlo. Traté de hacerlo de tal forma que sea como una librería y a su vez lo dejé lo más parecido a Sklearn para evitar problemas de nomenclatura. Para poder hacer esta "librería" tuve que leer demasiado la documentación de Sklearn y a su vez hacer demasiadas pruebas con la librería para así obtener el resultado deseado. Y por último **todos** los nombres de las funciones de Sklearn solo se les añadió el "Py" al inicio (Ejemplo, Sklearn:GridSearchCV - PySklearn:PyGridSearchCV) 
 
