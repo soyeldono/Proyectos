@@ -84,6 +84,6 @@ Esta es la opuesta pero igualmente se puede ver que el punto atractor que va al 
 
 Este como dice su nombre, era un trabajo en el cual sería pagado, pero a principios del proyecto se canceló debido a problemas que tuvo la tienda. Entonces en vez de tirarlo a la basura decidí guardarlo y algún día continuar con el proyecto.
 
-Como pueden observar se vé muy básica por lo mismo de que apenas hubo tiempo. La parte de la derecha que está en blanco ahí se iba a poner las imágenes de los productos de la tienda, la barra de colores tiene esos colores solo para saber cuál "botón" estoy alterando (ayuda visual), la barra de la derecha sería desplegable, etc... 
+Como pueden observar se vé muy básica por lo mismo de que apenas hubo tiempo. La parte de la derecha que está en blanco ahí se iba a poner las imágenes de los productos de la tienda, la barra de colores tiene esos colores solo para saber cuál "botón" estoy alterando (ayuda visual), la barra vertical de la izquierda sería desplegable, etc... 
 
 Aunque ahora no tenga mucho tiempo, estoy seguro que en algún momento terminaré este proyecto aún si no me pagan.
